@@ -15,8 +15,11 @@
 ## Librerias
 
 Python
-Pandas 
+
+Pandas
+
 Numpy 
+
 Pyodbc
 
 ## Glosario del trabajo:
@@ -24,12 +27,15 @@ Pyodbc
 # Pogramas
 
 MySQL:  gestión de bases de datos
+
 Visual Estudio: Un entorno de desarrollo integrado (IDE).
+
 Power Bi: Solución de análisis empresarial basado en la nube.
 
 # Libreria
 
 Pandas y Numpy : cargar datos, modelar, analizar, manipular y prepararlos.
+
 Pyodbc: Conexio y importacion de datos a MySQL.
 
 ## Diccionario de datos:
